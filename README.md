@@ -1,5 +1,6 @@
 # InsaneLabsOnSOL
 ![Lab_Upscaled](https://github.com/GenuinoVitto/InsaneLabsOnSOL/assets/78674453/9311c1f3-2092-4c06-90e4-9ad5f40a514c)
+![screencapture-insane-labs-on-sol-vercel-app-2024-05-02-16_02_57](https://github.com/GenuinoVitto/insane-labs-on-sol-landing-page/assets/78674453/431dafbc-224d-4b0a-bc90-280d8d2a7ada)
 
 ### This is a landing page meant for the proposed altcoin on the Solana Blockchain Ecosystem. 
 
